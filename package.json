@@ -7,7 +7,7 @@
   "description": "Generate UTC micro-second timestamp in MySQL datetime format",
   "devDependencies": {
     "chai": "3.5.0",
-    "mocha": "3.4.1"
+    "mocha": "3.4.2"
   },
   "directories": {
     "test": "test"
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.15"
+  "version": "0.1.16"
 }
