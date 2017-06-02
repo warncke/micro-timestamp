@@ -1,12 +1,12 @@
 {
   "author": "Ersun Warncke <ersun.warncke@gmail.com>",
   "dependencies": {
-    "microtime": "2.1.3",
+    "microtime": "2.1.4",
     "moment": "2.18.1"
   },
   "description": "Generate UTC micro-second timestamp in MySQL datetime format",
   "devDependencies": {
-    "chai": "4.0.0",
+    "chai": "4.0.1",
     "mocha": "3.4.2"
   },
   "directories": {
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.17"
+  "version": "0.1.18"
 }
