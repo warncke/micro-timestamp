@@ -15,9 +15,12 @@
   "license": "MIT",
   "main": "lib/micro-timestamp.js",
   "name": "micro-timestamp",
-  "repository": "warncke/micro-timestamp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warncke/micro-timestamp.git"
+  },
   "scripts": {
     "test": "mocha"
   },
-  "version": "2.0.1"
+  "version": "2.1.0"
 }
